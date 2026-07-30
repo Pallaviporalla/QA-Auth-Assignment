@@ -2,7 +2,7 @@ Test Execution Report
 
 Project Information
 
-- **Project:**QA Authentication Assignment
+- **Project**: QA Authentication Assignment
 - **Application:** https://automationexercise.com
 - **Testing Type:** Selenium WebDriver Automation
 - **Programming Language:** Java
